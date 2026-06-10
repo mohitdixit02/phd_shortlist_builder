@@ -18,7 +18,18 @@ Build following:
    - 0.35 for Research Focus comparison
    - 0.20 for Evidence comparison
    - reasoning for each evaluation
-   - Run in parallel
+
+Open Position comparison - how well does the student's profile match the supervisor's open position?
+Research Focus comparison - how well does the student's profile match the supervisor's research focus?
+Evidence comparison - how well does the student's experience and skills match the supervisor's evidence papers and grants?
+
+#### v0:
+All comparisons run in parallel and score is calculated
+
+#### v1:
+Open Position comparison and Research Focus comparsion first run in parallel. If any of the score is less then 0.5, then the entry get rejected immediately. If both scores are above 0.5, then the Evidence comparison is run and final score is calculated.
+
+Evidence score - only give confidence of getting selected based on student past skills and experience.
 
 2. Final Score Calculation
     - Weighted average of the three evaluations > Final Score

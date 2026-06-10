@@ -17,7 +17,6 @@ class Evaluator:
     def __init__(self):
         self.llm = get_llm()
             
-        # Structure matching user preference: prompt.partial(...) | model | parser
         self.position_chain = (
             EVALUATE_POSITION_PROMPT.partial(format_instructions=eval_parser.get_format_instructions()) 
             | self.llm 
@@ -39,18 +38,22 @@ class Evaluator:
             | final_eval_parser
         )
 
-        # Encapsulated parallel chain
-        self.parallel_eval_chain = RunnableParallel({
+        self.alignment_chain = RunnableParallel({
             "position": (lambda x: x["position"]) | self.position_chain,
-            "focus": (lambda x: x["focus"]) | self.focus_chain,
-            "evidence": (lambda x: x["evidence"]) | self.evidence_chain
+            "focus": (lambda x: x["focus"]) | self.focus_chain
         })
 
-    def evaluate_parallel(self, inputs: dict) -> dict:
+    def evaluate_alignment(self, inputs: dict) -> dict:
         """
-        Runs the evaluation chains in parallel.
+        Runs Position and Focus evaluations in parallel (v1 Step 1).
         """
-        return self.parallel_eval_chain.invoke(inputs)
+        return self.alignment_chain.invoke(inputs)
+
+    def evaluate_evidence(self, inputs: dict) -> dict:
+        """
+        Runs Evidence evaluation (v1 Step 2).
+        """
+        return self.evidence_chain.invoke(inputs)
 
     def generate_personalization(self, final_score: float, pos_reasoning: str, focus_reasoning: str, evid_reasoning: str) -> dict:
         """
