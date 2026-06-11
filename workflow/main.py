@@ -73,11 +73,24 @@ def run_shortlist_pipeline(student_profile, supervisors):
             evid_results.reasoning
         )
 
+        # Calculate Tier
+        tier = "Safety"
+        if final_score >= 85:
+            tier = "Reach"
+        elif final_score >= 70:
+            tier = "Target"
+
         results.append({
             "name": supervisor["name"],
             "institution": supervisor["institution"],
+            "country": supervisor.get("country", "N/A"),
+            "contact_email": supervisor.get("contact_email", "N/A"),
+            "research_focus": supervisor.get("research_focus", "N/A"),
+            "evidence": supervisor.get("evidence", {}),
             "final_score": final_score,
+            "tier": tier,
             "why_match": final_personalization.why_match,
+            "linked_programs": supervisor.get("linked_programs", []),
             "details": {
                 "position": {"score": pos_score, "reasoning": alignment_results["position"].reasoning},
                 "focus": {"score": focus_score, "reasoning": alignment_results["focus"].reasoning},

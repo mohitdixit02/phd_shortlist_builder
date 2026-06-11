@@ -1,0 +1,37 @@
+[
+    {
+        "id": "stu_102",
+        "name": "Lin Chen",
+        "education_history": [
+            {
+                "degree": "BSc in Plant Genetics",
+                "institution": "University of Chen",
+                "grade": "1.0 (German Scale)",
+                "thesis": "Advanced Research in Plant Genetics"
+            }
+        ],
+        "skills": [
+            "Lab Techniques",
+            "Machine Learning",
+            "Qualitative Analysis",
+            "SQL",
+            "TensorFlow"
+        ],
+        "projects": [
+            "Project on Plant Genetics",
+            "Analysis of Public Health"
+        ],
+        "publications": [
+            "Chen, L. (2023). Future of Plant Genetics. AI Review."
+        ],
+        "research_interests": [
+            "Natural Language Processing"
+        ],
+        "target_countries": [
+            "UK"
+        ],
+        "target_intake": "Fall 2025",
+        "intro_call_summary": "Lin Chen is highly motivated to pursue a PhD in Plant Genetics. They have experience in Lab Techniques and are looking for a supervisor who specializes in Plant Genetics.",
+        "raw_resume_text": "Lin Chen graduated with honors from University of Chen. Skills include Lab Techniques, Machine Learning, Qualitative Analysis, SQL, TensorFlow. Interested in Plant Genetics."
+    }
+]
