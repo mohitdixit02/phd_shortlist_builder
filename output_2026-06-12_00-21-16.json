@@ -1,0 +1,1671 @@
+{
+    "Lin Chen": [
+        {
+            "name": "Arkaitz Zubiaga",
+            "institution": "Queen Mary University of London",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Misinformation and Its Impacts, Hate Speech and Cyberbullying Detection",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Synergizing machine learning &amp; symbolic methods: A survey on hybrid approaches to natural language processing",
+                        "link": "https://doi.org/10.1016/j.eswa.2024.124097"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: UK Research and Innovation",
+                        "funder": "UK Research and Innovation",
+                        "link": "https://doi.org/10.1016/j.eswa.2024.124097"
+                    },
+                    {
+                        "title": "Project supported by: European Commission",
+                        "funder": "European Commission",
+                        "link": "https://doi.org/10.1016/j.eswa.2024.124097"
+                    }
+                ]
+            },
+            "final_score": 83.5,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow, combined with their interdisciplinary thesis in plant genetics, aligns well with the supervisor's research on hybrid machine learning and symbolic methods in NLP. The supervisor's recent survey paper on this topic directly complements Lin's technical skills and interest in transitioning to NLP. Additionally, the supervisor's grants from UK Research and Innovation and the European Commission highlight a strong technical foundation in advanced NLP techniques, which would provide Lin with the resources and expertise needed to pursue their PhD goals.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by UK Research and Innovation (Topic: Synergizing machine learning &amp; symbolic methods: A survey on hybrid approaches to natural language processing)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1016/j.eswa.2024.124097"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 90.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the PhD position's focus on hybrid approaches to NLP, combining machine learning and symbolic methods. The student's skills in Machine Learning and TensorFlow are directly relevant to the position's requirements. The student's background in Plant Genetics is not a barrier, as the position emphasizes technical skills and research interest over domain-specific experience."
+                },
+                "focus": {
+                    "score": 80.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the supervisor's focus on Topic Modeling, Misinformation, and Hate Speech Detection, as these areas are core applications of NLP. The student's skills in Machine Learning and TensorFlow further support this alignment. However, the student's background in Plant Genetics may introduce a slight mismatch, but the technical skills and research intent are strong enough to justify a high score."
+                },
+                "evidence": {
+                    "score": 75.0,
+                    "reasoning": "The supervisor's focus on hybrid machine learning and symbolic methods in NLP aligns moderately well with the student's background in machine learning (TensorFlow) and interdisciplinary research. However, the student's primary expertise in plant genetics and public health analysis may require additional training to fully align with the supervisor's advanced NLP techniques. The student's skills in qualitative analysis and PhD-level research potential are positive factors, but the gap in domain-specific NLP experience slightly limits the alignment."
+                }
+            }
+        },
+        {
+            "name": "Olesya Razuvayevskaya",
+            "institution": "University of Sheffield",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Misinformation and Its Impacts, Topic Modeling, Sentiment Analysis and Opinion Mining",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: European Commission",
+                        "funder": "European Commission",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Horizon 2020 Framework Programme",
+                        "funder": "Horizon 2020 Framework Programme",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Engineering and Physical Sciences Research Council",
+                        "funder": "Engineering and Physical Sciences Research Council",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Innovate UK",
+                        "funder": "Innovate UK",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Innovation and Networks Executive Agency",
+                        "funder": "Innovation and Networks Executive Agency",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    }
+                ]
+            },
+            "final_score": 82.75,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow aligns well with the supervisor's expertise in parameter-efficient techniques for multilingual news classification, as demonstrated in their published research. The supervisor's work on NLP, supported by grants from the European Commission and Horizon 2020, provides a strong technical foundation for Lin's PhD goals in Natural Language Processing. Additionally, Lin's interdisciplinary experience in plant genetics and public health analysis suggests a capacity for rigorous, cross-domain research, which aligns with the supervisor's advanced computational approaches.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by European Commission (Topic: Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1371/journal.pone.0301738"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on parameter-efficient techniques and full fine-tuning for multilingual news article classification. The student's skills in Machine Learning and TensorFlow are directly relevant to the position. However, the student's background in Plant Genetics is not directly related, which slightly reduces the alignment score."
+                },
+                "focus": {
+                    "score": 90.0,
+                    "reasoning": "The student's research intent focuses on Natural Language Processing (NLP), which aligns well with the supervisor's research focus on Misinformation and Its Impacts, Topic Modeling, Sentiment Analysis, and Opinion Mining. All these areas fall under the broader NLP domain, and the student's skills in Machine Learning and TensorFlow further support this alignment. The student's background in Plant Genetics is not directly relevant but does not detract from the alignment with the supervisor's NLP-focused research."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's expertise in NLP and machine learning aligns partially with the student's background in machine learning and TensorFlow. However, the student's primary background in plant genetics may require additional training to fully leverage the supervisor's research focus on multilingual news classification. The student's interdisciplinary skills and PhD potential suggest moderate alignment, but the technical domains show some divergence."
+                }
+            }
+        },
+        {
+            "name": "Rrubaa Panchendrarajan",
+            "institution": "Queen Mary University of London",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Sentiment Analysis and Opinion Mining, Misinformation and Its Impacts",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Synergizing machine learning &amp; symbolic methods: A survey on hybrid approaches to natural language processing",
+                        "link": "https://doi.org/10.1016/j.eswa.2024.124097"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: UK Research and Innovation",
+                        "funder": "UK Research and Innovation",
+                        "link": "https://doi.org/10.1016/j.eswa.2024.124097"
+                    },
+                    {
+                        "title": "Project supported by: European Commission",
+                        "funder": "European Commission",
+                        "link": "https://doi.org/10.1016/j.eswa.2024.124097"
+                    }
+                ]
+            },
+            "final_score": 81.0,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow, combined with their interdisciplinary thesis on plant genetics, aligns well with the supervisor's focus on hybrid machine learning and symbolic methods in NLP. The supervisor's recent survey paper on advanced NLP techniques directly complements Lin's interest in transitioning to NLP research, while their grants from UK Research and Innovation and the European Commission underscore a commitment to cutting-edge NLP methodologies. Lin's quantitative and qualitative analysis skills, honed through public health and plant genetics projects, further support their readiness to contribute to the supervisor's interdisciplinary NLP work.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by UK Research and Innovation (Topic: Synergizing machine learning &amp; symbolic methods: A survey on hybrid approaches to natural language processing)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1016/j.eswa.2024.124097"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The open PhD position focuses on synergizing machine learning and symbolic methods in natural language processing (NLP), which aligns well with the student's primary research interest in NLP. The student's skills in machine learning and TensorFlow are directly relevant to the position's requirements. However, the student's background in plant genetics is not directly related to the position's topic, which may slightly reduce the alignment score."
+                },
+                "focus": {
+                    "score": 85.0,
+                    "reasoning": "Lin Chen's primary research interest in Natural Language Processing (NLP) aligns well with the supervisor's focus on Topic Modeling, Sentiment Analysis, and Misinformation. However, their background in Plant Genetics, while not directly related, does not significantly detract from the alignment. Their skills in Machine Learning and TensorFlow further support this alignment, though the score is slightly reduced due to the lack of explicit mention of the supervisor's specific topics in the student's intent."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's expertise in hybrid machine learning and symbolic methods in NLP aligns partially with the student's background in machine learning (TensorFlow) and interdisciplinary research. However, the student's primary focus on plant genetics and public health analysis may not fully align with the supervisor's NLP-centric research. The student's skills in TensorFlow and qualitative analysis are relevant but not directly aligned with symbolic methods in NLP. The student's interdisciplinary experience suggests adaptability, but the alignment is not perfect."
+                }
+            }
+        },
+        {
+            "name": "Serge Gladkoff",
+            "institution": "University of Manchester",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Natural Language Processing Techniques, Topic Modeling, Text Readability and Simplification",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Neural machine translation of clinical text: an empirical investigation into multilingual pre-trained language models and transfer-learning",
+                        "link": "https://doi.org/10.3389/fdgth.2024.1211564"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: UK Research and Innovation",
+                        "funder": "UK Research and Innovation",
+                        "link": "https://doi.org/10.3389/fdgth.2024.1211564"
+                    },
+                    {
+                        "title": "Project supported by: Nuffield Foundation",
+                        "funder": "Nuffield Foundation",
+                        "link": "https://doi.org/10.3389/fdgth.2024.1211564"
+                    },
+                    {
+                        "title": "Project supported by: Engineering and Physical Sciences Research Council",
+                        "funder": "Engineering and Physical Sciences Research Council",
+                        "link": "https://doi.org/10.3389/fdgth.2024.1211564"
+                    }
+                ]
+            },
+            "final_score": 80.0,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow aligns well with the supervisor's expertise in neural machine translation of clinical text, particularly their use of multilingual pre-trained language models. The supervisor's work on transfer learning in NLP complements Lin's interdisciplinary experience, as demonstrated in their plant genetics thesis and public health analysis projects. Additionally, the supervisor's grants from UK Research and Innovation and the Nuffield Foundation indicate a strong track record in NLP research, which would provide Lin with valuable mentorship for their PhD goals in NLP. Lin's technical skills and interdisciplinary approach make them a strong candidate for the supervisor's research focus on clinical text processing.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by UK Research and Innovation (Topic: Neural machine translation of clinical text: an empirical investigation into multilingual pre-trained language models and transfer-learning)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.3389/fdgth.2024.1211564"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on neural machine translation and multilingual pre-trained language models. The student's skills in Machine Learning and TensorFlow are directly relevant to the technical requirements of the position. However, the student's background in Plant Genetics, while not directly related, does not significantly detract from the alignment, as the position emphasizes empirical investigation and transfer-learning, which are transferable skills."
+                },
+                "focus": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP techniques, topic modeling, and text simplification. However, the student's background in Plant Genetics introduces a slight mismatch, though their skills in Machine Learning and TensorFlow mitigate this. The alignment is strong but not perfect."
+                },
+                "evidence": {
+                    "score": 60.0,
+                    "reasoning": "The supervisor's expertise in neural machine translation and clinical text processing aligns partially with the student's background in machine learning and TensorFlow. However, the student's focus on plant genetics and public health analysis, while interdisciplinary, does not directly overlap with the supervisor's NLP and clinical text research. The student's ML skills are transferable, but the lack of direct experience in clinical or multilingual NLP reduces the alignment."
+                }
+            }
+        },
+        {
+            "name": "Tiancheng Hu",
+            "institution": "University of Cambridge",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Computational and Text Analysis Methods, Natural Language Processing Techniques",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Generative language models exhibit social identity biases",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: Bill and Melinda Gates Foundation",
+                        "funder": "Bill and Melinda Gates Foundation",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    },
+                    {
+                        "title": "Project supported by: Dell EMC",
+                        "funder": "Dell EMC",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    },
+                    {
+                        "title": "Project supported by: Cambridge Trust",
+                        "funder": "Cambridge Trust",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    },
+                    {
+                        "title": "Project supported by: Gates Cambridge Trust",
+                        "funder": "Gates Cambridge Trust",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    },
+                    {
+                        "title": "Project supported by: Engineering and Physical Sciences Research Council",
+                        "funder": "Engineering and Physical Sciences Research Council",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    },
+                    {
+                        "title": "Project supported by: Science and Technology Facilities Council",
+                        "funder": "Science and Technology Facilities Council",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    }
+                ]
+            },
+            "final_score": 79.25,
+            "tier": "Target",
+            "why_match": "Lin Chen's interdisciplinary background in Plant Genetics and Machine Learning aligns well with the supervisor's research on biases in generative language models, as evidenced by their recent Nature paper. Chen's skills in TensorFlow and qualitative analysis, honed through projects in public health and plant genetics, provide a strong foundation for contributing to the supervisor's work on AI and computational social science. The supervisor's grants from the Gates Foundation and EPSRC further demonstrate their commitment to impactful research, which resonates with Chen's goal of applying technical expertise to interdisciplinary challenges.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by Bill and Melinda Gates Foundation (Topic: Generative language models exhibit social identity biases)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on generative language models and social identity biases. The student's skills in Machine Learning and TensorFlow are directly relevant to the technical aspects of the position. However, the student's background in Plant Genetics may not be directly related, but it is not a significant detractor given the strong alignment in NLP and ML skills."
+                },
+                "focus": {
+                    "score": 80.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP techniques, Topic Modeling, and Computational Text Analysis. However, the student's background in Plant Genetics may introduce some misalignment, though their skills in Machine Learning and TensorFlow mitigate this concern."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's expertise in biases in generative language models and AI aligns moderately with the student's background in machine learning and TensorFlow. However, the student's primary focus on plant genetics and public health analysis shows a weaker connection to the supervisor's computational social science and AI research. The student's interdisciplinary skills suggest potential for adaptation, but the alignment is not perfect."
+                }
+            }
+        },
+        {
+            "name": "Jeff Dalton",
+            "institution": "University of Edinburgh",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Natural Language Processing Techniques, Semantic Web and Ontologies",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Doing Personal LAPS: LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search",
+                        "link": "https://doi.org/10.1145/3626772.3657815"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: Engineering and Physical Sciences Research Council",
+                        "funder": "Engineering and Physical Sciences Research Council",
+                        "link": "https://doi.org/10.1145/3626772.3657815"
+                    }
+                ]
+            },
+            "final_score": 79.25,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in Machine Learning and TensorFlow, combined with their interdisciplinary experience in Plant Genetics, aligns well with the supervisor's work on LLM-augmented dialogue systems. The supervisor's focus on personalized conversational search, as demonstrated in their ACM conference publications, complements Lin's technical skills and interest in applying AI to complex domains. Additionally, the supervisor's EPSRC-funded research in advanced AI and human-computer interaction provides a strong foundation for Lin's PhD goals in Natural Language Processing, bridging their genetics background with cutting-edge AI applications.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by Engineering and Physical Sciences Research Council (Topic: Doing Personal LAPS: LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1145/3626772.3657815"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on LLM-Augmented Dialogue Construction, which is a subfield of NLP. The student's skills in Machine Learning and TensorFlow are directly relevant to the position's requirements. However, the student's background in Plant Genetics is unrelated, which slightly reduces the alignment score."
+                },
+                "focus": {
+                    "score": 80.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's research focus on NLP, Topic Modeling, and Semantic Web. However, the student's background in Plant Genetics may introduce a slight misalignment, though their skills in Machine Learning and TensorFlow support the NLP focus. The alignment is strong but not perfect, hence the score of 80.0."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's focus on LLM-augmented dialogue systems and personalized conversational search aligns partially with the student's background in machine learning and TensorFlow. However, the student's expertise in plant genetics and public health analysis, while interdisciplinary, does not directly overlap with the supervisor's core research area. The student's skills in qualitative analysis and advanced research are transferable but not a perfect match, leading to a moderate alignment score."
+                }
+            }
+        },
+        {
+            "name": "Paul R\u00f6ttger",
+            "institution": "University of Oxford",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Hate Speech and Cyberbullying Detection, Natural Language Processing Techniques",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models",
+                        "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: Allen Institute for Artificial Intelligence",
+                        "funder": "Allen Institute for Artificial Intelligence",
+                        "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                    },
+                    {
+                        "title": "Project supported by: European Commission",
+                        "funder": "European Commission",
+                        "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                    },
+                    {
+                        "title": "Project supported by: Deutsche Forschungsgemeinschaft",
+                        "funder": "Deutsche Forschungsgemeinschaft",
+                        "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                    },
+                    {
+                        "title": "Project supported by: Economic and Social Research Council",
+                        "funder": "Economic and Social Research Council",
+                        "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                    }
+                ]
+            },
+            "final_score": 77.5,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow, combined with their interdisciplinary thesis in plant genetics, aligns well with the supervisor's research on evaluating values and opinions in large language models. The supervisor's recent ACL 2024 paper on this topic directly complements Lin's technical skills and interest in NLP, while their funding from the Allen Institute for AI and the European Commission demonstrates a commitment to cutting-edge research that Lin can contribute to through their ML expertise and cross-disciplinary perspective.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by Allen Institute for Artificial Intelligence (Topic: Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The PhD position focuses on evaluating values and opinions in large language models, which aligns well with the student's interest in Natural Language Processing (NLP) and their skills in Machine Learning and TensorFlow. The student's background in Plant Genetics is unrelated, but their current research intent and technical skills are highly relevant to the position's topic."
+                },
+                "focus": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP techniques, Topic Modeling, and Hate Speech Detection. However, the student's background in Plant Genetics and their motivation in that field may introduce some divergence, though their skills in Machine Learning and TensorFlow mitigate this. The alignment is strong but not perfect due to the differing foundational interests."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's research aligns well with the student's machine learning skills and interdisciplinary background, particularly in NLP and qualitative analysis. However, the student's primary background in plant genetics may require additional effort to fully align with the supervisor's focus on evaluating values and opinions in large language models. The student's experience with TensorFlow and PhD-level research potential are strong positives, but the gap in direct NLP research experience slightly reduces the alignment."
+                }
+            }
+        },
+        {
+            "name": "Andrew M. Bean",
+            "institution": "University of Oxford",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Natural Language Processing Techniques, Interprofessional Education and Collaboration",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Indian-BhED: A Dataset for Measuring India-Centric Biases in Large Language Models",
+                        "link": "https://doi.org/10.1145/3677525.3678666"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: Economic and Social Research Council",
+                        "funder": "Economic and Social Research Council",
+                        "link": "https://doi.org/10.1145/3677525.3678666"
+                    }
+                ]
+            },
+            "final_score": 77.5,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow aligns well with the supervisor's work on bias measurement in large language models, particularly their recent paper 'Indian-BhED' which evaluates cultural and linguistic biases in AI systems. Chen's interdisciplinary experience in plant genetics and public health analysis demonstrates their ability to bridge technical and contextual gaps, mirroring the supervisor's focus on India-centric AI evaluations. Additionally, Chen's PhD goals in NLP would benefit from the supervisor's ESRC-funded research, which provides a strong foundation for studying bias in language models\u2014a critical area for Chen's transition from plant genetics to AI.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by Economic and Social Research Council (Topic: Indian-BhED: A Dataset for Measuring India-Centric Biases in Large Language Models)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1145/3677525.3678666"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the PhD position focused on measuring biases in Large Language Models. The student's skills in Machine Learning and TensorFlow are directly relevant to the project. However, the student's background in Plant Genetics is not directly related, but this does not significantly detract from the alignment given the focus on NLP and ML skills."
+                },
+                "focus": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's research focus on Topic Modeling and NLP Techniques. However, the student's background in Plant Genetics and lack of explicit mention of Interprofessional Education and Collaboration may slightly reduce the alignment. The student's skills in Machine Learning and TensorFlow further support the alignment."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's focus on bias measurement in large language models, particularly in India-centric contexts, aligns partially with the student's background in machine learning and qualitative analysis. However, the student's expertise in plant genetics and public health analysis, while interdisciplinary, does not directly overlap with the supervisor's technical work on cultural and linguistic biases in AI systems. The student's skills in TensorFlow and machine learning are relevant but not specifically tailored to the supervisor's research focus. The alignment is moderate, with potential for growth in the student's understanding of the supervisor's niche area."
+                }
+            }
+        },
+        {
+            "name": "Terry Yin",
+            "institution": "Nvidia (United Kingdom)",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Natural Language Processing Techniques, Multimodal Machine Learning Applications",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation",
+                        "link": "https://doi.org/10.1109/jbhi.2024.3354712"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: University of Warwick",
+                        "funder": "University of Warwick",
+                        "link": "https://doi.org/10.1109/jbhi.2024.3354712"
+                    },
+                    {
+                        "title": "Project supported by: China Scholarship Council",
+                        "funder": "China Scholarship Council",
+                        "link": "https://doi.org/10.1109/jbhi.2024.3354712"
+                    }
+                ]
+            },
+            "final_score": 76.75,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow aligns well with the supervisor's work on CAMANet, a model for AI-driven radiology report generation. The supervisor's expertise in medical imaging and NLP, supported by grants from the University of Warwick and the China Scholarship Council, provides an ideal framework for Lin's transition from plant genetics to NLP research. Lin's interdisciplinary experience in quantitative analysis and their thesis on advanced plant genetics demonstrate the analytical rigor needed for PhD-level research in this field.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by University of Warwick (Topic: CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1109/jbhi.2024.3354712"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on radiology report generation using Class Activation Map Guided Attention Network (CAMANet). The student's skills in Machine Learning and TensorFlow are directly relevant to the project. However, the student's background in Plant Genetics is unrelated, which slightly reduces the alignment score."
+                },
+                "focus": {
+                    "score": 80.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP techniques and applications. However, the student's background in Plant Genetics and their motivation in that area may introduce some divergence, though their skills in Machine Learning and TensorFlow support the alignment."
+                },
+                "evidence": {
+                    "score": 75.0,
+                    "reasoning": "The supervisor's expertise in AI-driven radiology report generation aligns partially with the student's background in machine learning and TensorFlow. However, the student's focus on plant genetics and public health analysis, while demonstrating strong research skills, does not directly overlap with medical imaging or natural language processing. The student's interdisciplinary experience and technical skills in machine learning suggest potential adaptability, but the alignment is not perfect."
+                }
+            }
+        },
+        {
+            "name": "Adian Liusie",
+            "institution": "University of Cambridge",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Natural Language Processing Techniques, Music and Audio Processing",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "LLM Comparative Assessment: Zero-shot NLG Evaluation through Pairwise Comparisons using Large Language Models",
+                        "link": "https://doi.org/10.18653/v1/2024.eacl-long.8"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: University of Cambridge",
+                        "funder": "University of Cambridge",
+                        "link": "https://doi.org/10.18653/v1/2024.eacl-long.8"
+                    }
+                ]
+            },
+            "final_score": 76.5,
+            "tier": "Target",
+            "why_match": "Lin Chen's transition from Plant Genetics to Natural Language Processing (NLP) is strongly supported by their machine learning proficiency and TensorFlow expertise, which aligns with the supervisor's focus on evaluating large language models (LLMs) through zero-shot NLG assessment. The supervisor's recent work on pairwise comparisons of LLMs directly complements Lin's interdisciplinary background, as their thesis in advanced plant genetics demonstrates a rigorous analytical approach transferable to NLP research. Additionally, the University of Cambridge's backing of the supervisor's research ensures access to cutting-edge AI resources, further enabling Lin's PhD goals in NLP.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by University of Cambridge (Topic: LLM Comparative Assessment: Zero-shot NLG Evaluation through Pairwise Comparisons using Large Language Models)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.18653/v1/2024.eacl-long.8"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on LLM Comparative Assessment and NLG Evaluation. The student's skills in Machine Learning and TensorFlow are directly relevant to the position's requirements. However, the student's background in Plant Genetics is not directly related, which slightly reduces the alignment."
+                },
+                "focus": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research intent in Natural Language Processing (NLP) aligns well with the supervisor's research focus, which includes NLP techniques. However, the student's background in Plant Genetics and motivation in that field may introduce some divergence. The student's skills in Machine Learning and TensorFlow further support the alignment, but the supervisor's additional focus on Topic Modeling and Music/Audio Processing may not be directly relevant to the student's intent."
+                },
+                "evidence": {
+                    "score": 60.0,
+                    "reasoning": "The supervisor's research aligns with advanced NLP and AI, particularly in evaluating large language models. The student's background in machine learning and TensorFlow shows some relevance, but their primary expertise in plant genetics and lab techniques may not fully align with the supervisor's focus on zero-shot NLG assessment. The student's interdisciplinary skills offer potential, but the alignment is not strong enough for a perfect score."
+                }
+            }
+        },
+        {
+            "name": "Mariya Shmatova",
+            "institution": "Tolworth Hospital",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Natural Language Processing Techniques, Topic Modeling, Text Readability and Simplification",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Findings of the WMT24 General Machine Translation Shared Task: The LLM Era Is Here but MT Is Not Solved Yet",
+                        "link": "https://doi.org/10.18653/v1/2024.wmt-1.1"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: Univerzita Karlova v Praze",
+                        "funder": "Univerzita Karlova v Praze",
+                        "link": "https://doi.org/10.18653/v1/2024.wmt-1.1"
+                    },
+                    {
+                        "title": "Project supported by: Government of the United Kingdom",
+                        "funder": "Government of the United Kingdom",
+                        "link": "https://doi.org/10.18653/v1/2024.wmt-1.1"
+                    },
+                    {
+                        "title": "Project supported by: UK Research and Innovation",
+                        "funder": "UK Research and Innovation",
+                        "link": "https://doi.org/10.18653/v1/2024.wmt-1.1"
+                    },
+                    {
+                        "title": "Project supported by: Science Foundation Ireland",
+                        "funder": "Science Foundation Ireland",
+                        "link": "https://doi.org/10.18653/v1/2024.wmt-1.1"
+                    },
+                    {
+                        "title": "Project supported by: Agence Nationale de la Recherche",
+                        "funder": "Agence Nationale de la Recherche",
+                        "link": "https://doi.org/10.18653/v1/2024.wmt-1.1"
+                    },
+                    {
+                        "title": "Project supported by: HORIZON EUROPE Framework Programme",
+                        "funder": "HORIZON EUROPE Framework Programme",
+                        "link": "https://doi.org/10.18653/v1/2024.wmt-1.1"
+                    },
+                    {
+                        "title": "Project supported by: European Regional Development Fund",
+                        "funder": "European Regional Development Fund",
+                        "link": "https://doi.org/10.18653/v1/2024.wmt-1.1"
+                    }
+                ]
+            },
+            "final_score": 76.5,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow aligns strongly with the supervisor's expertise in machine translation, particularly their work on the WMT24 shared task, which addresses challenges in MT despite LLM advancements. The supervisor's international grants in NLP and AI further demonstrate their capacity to support interdisciplinary research, complementing Lin's transition from plant genetics to NLP. Lin's thesis on advanced plant genetics and ML projects indicate a strong foundation for PhD-level research, while the supervisor's technical depth in NLP provides a robust framework for Lin's PhD goals in NLP.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by Univerzita Karlova v Praze (Topic: Findings of the WMT24 General Machine Translation Shared Task: The LLM Era Is Here but MT Is Not Solved Yet)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.18653/v1/2024.wmt-1.1"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on machine translation, a subfield of NLP. The student's skills in Machine Learning and TensorFlow are directly relevant to the position's requirements. However, the student's background in Plant Genetics is not directly related to the position's topic, which may slightly reduce the alignment."
+                },
+                "focus": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP techniques, Topic Modeling, and Text Readability. However, the student's background in Plant Genetics is somewhat unrelated, which slightly reduces the alignment score. The student's skills in Machine Learning and TensorFlow further support the alignment."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The student's background in plant genetics and machine learning shows some alignment with the supervisor's focus on machine translation and NLP, particularly through shared skills in TensorFlow and qualitative analysis. However, the student's expertise in plant genetics may not directly align with the supervisor's research on machine translation, resulting in a moderate alignment score."
+                }
+            }
+        },
+        {
+            "name": "Nigel Collier",
+            "institution": "University of Cambridge",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Natural Language Processing Techniques, Biomedical Text Mining and Ontologies",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Generative language models exhibit social identity biases",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: Bill and Melinda Gates Foundation",
+                        "funder": "Bill and Melinda Gates Foundation",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    },
+                    {
+                        "title": "Project supported by: Dell EMC",
+                        "funder": "Dell EMC",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    },
+                    {
+                        "title": "Project supported by: Cambridge Trust",
+                        "funder": "Cambridge Trust",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    },
+                    {
+                        "title": "Project supported by: Gates Cambridge Trust",
+                        "funder": "Gates Cambridge Trust",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    },
+                    {
+                        "title": "Project supported by: Engineering and Physical Sciences Research Council",
+                        "funder": "Engineering and Physical Sciences Research Council",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    },
+                    {
+                        "title": "Project supported by: Science and Technology Facilities Council",
+                        "funder": "Science and Technology Facilities Council",
+                        "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                    }
+                ]
+            },
+            "final_score": 75.75,
+            "tier": "Target",
+            "why_match": "Lin Chen's transition from Plant Genetics to Natural Language Processing is strongly supported by their expertise in machine learning and TensorFlow, which aligns with the supervisor's work on biases in generative language models, as demonstrated in their recent Nature paper. The supervisor's grants from the Bill and Melinda Gates Foundation and UK research councils further indicate a commitment to interdisciplinary AI research, complementing Lin's background in computational analysis and their thesis on advanced plant genetics. This match offers Lin the opportunity to apply their technical skills in a novel domain while contributing to impactful research on AI fairness and social science applications.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by Bill and Melinda Gates Foundation (Topic: Generative language models exhibit social identity biases)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1038/s43588-024-00741-1"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the PhD position's focus on generative language models. Their skills in Machine Learning and TensorFlow are directly relevant to the research topic. However, the student's background in Plant Genetics is unrelated, which slightly reduces the alignment."
+                },
+                "focus": {
+                    "score": 70.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP Techniques and Biomedical Text Mining. However, the student's background in Plant Genetics and lack of explicit mention of Topic Modeling or Ontologies may slightly reduce the alignment. The skills in Machine Learning and TensorFlow are relevant but not sufficient to fully cover the supervisor's broader research areas."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's research on biases in generative language models aligns partially with the student's background in machine learning and TensorFlow. However, the student's primary expertise in plant genetics and public health analysis, while interdisciplinary, does not fully align with the supervisor's focus on AI and computational social science. The student's skills in qualitative analysis and PhD-level research potential are strengths, but the technical alignment is moderate due to the differing core research areas."
+                }
+            }
+        },
+        {
+            "name": "Goran Nenadi\u0107",
+            "institution": "University of Manchester",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Biomedical Text Mining and Ontologies, Topic Modeling, Natural Language Processing Techniques",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Neural machine translation of clinical text: an empirical investigation into multilingual pre-trained language models and transfer-learning",
+                        "link": "https://doi.org/10.3389/fdgth.2024.1211564"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: UK Research and Innovation",
+                        "funder": "UK Research and Innovation",
+                        "link": "https://doi.org/10.3389/fdgth.2024.1211564"
+                    },
+                    {
+                        "title": "Project supported by: Nuffield Foundation",
+                        "funder": "Nuffield Foundation",
+                        "link": "https://doi.org/10.3389/fdgth.2024.1211564"
+                    },
+                    {
+                        "title": "Project supported by: Engineering and Physical Sciences Research Council",
+                        "funder": "Engineering and Physical Sciences Research Council",
+                        "link": "https://doi.org/10.3389/fdgth.2024.1211564"
+                    }
+                ]
+            },
+            "final_score": 75.75,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow, coupled with their interdisciplinary thesis on plant genetics, aligns well with the supervisor's expertise in neural machine translation and multilingual NLP for healthcare. The supervisor's work on leveraging pre-trained language models and transfer-learning for clinical text analysis directly complements Lin's technical skills and research interests in applied NLP. Additionally, Lin's experience in qualitative analysis and public health projects aligns with the supervisor's focus on healthcare applications, making this collaboration a strong fit for advancing interdisciplinary research in NLP.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by UK Research and Innovation (Topic: Neural machine translation of clinical text: an empirical investigation into multilingual pre-trained language models and transfer-learning)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.3389/fdgth.2024.1211564"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on neural machine translation of clinical text, which is a subfield of NLP. The student's skills in Machine Learning and TensorFlow are directly relevant to the empirical investigation into multilingual pre-trained language models and transfer-learning mentioned in the position. However, the student's background in Plant Genetics is not directly related to the clinical text focus, which slightly reduces the alignment score."
+                },
+                "focus": {
+                    "score": 70.0,
+                    "reasoning": "The student's primary research intent in Natural Language Processing aligns well with the supervisor's focus on NLP techniques, Topic Modeling, and Biomedical Text Mining. However, the student's background in Plant Genetics and motivation may introduce some divergence, reducing the alignment slightly."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's expertise in neural machine translation and multilingual NLP for healthcare aligns moderately with the student's background in machine learning and TensorFlow. However, the student's focus on plant genetics and public health analysis, while interdisciplinary, lacks direct experience in clinical text or multilingual AI systems. The student's ML skills and thesis demonstrate research capability, but the technical alignment is not fully strong due to the domain mismatch."
+                }
+            }
+        },
+        {
+            "name": "Freddy Heppell",
+            "institution": "University of Sheffield",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Misinformation and Its Impacts, Topic Modeling, Sentiment Analysis and Opinion Mining",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: European Commission",
+                        "funder": "European Commission",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Horizon 2020 Framework Programme",
+                        "funder": "Horizon 2020 Framework Programme",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Engineering and Physical Sciences Research Council",
+                        "funder": "Engineering and Physical Sciences Research Council",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Innovate UK",
+                        "funder": "Innovate UK",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Innovation and Networks Executive Agency",
+                        "funder": "Innovation and Networks Executive Agency",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    }
+                ]
+            },
+            "final_score": 75.75,
+            "tier": "Target",
+            "why_match": "Lin Chen's transition from Plant Genetics to Natural Language Processing is strongly supported by their machine learning skills, particularly in TensorFlow, which aligns with the supervisor's expertise in parameter-efficient fine-tuning for multilingual NLP tasks. The supervisor's recent publication on news article classification demonstrates a technical focus that complements Lin's interdisciplinary background and PhD goals. Additionally, the supervisor's grants from the European Commission and Horizon 2020 underscore their capacity to support advanced NLP research, making them an ideal match for Lin's aspirations in this field.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by European Commission (Topic: Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1371/journal.pone.0301738"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on multilingual news article classification, which is an NLP task. The student's skills in Machine Learning and TensorFlow are relevant to the position's emphasis on parameter-efficient techniques and full fine-tuning. However, the student's background in Plant Genetics is not directly related to the topic, which slightly reduces the alignment score."
+                },
+                "focus": {
+                    "score": 70.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns partially with the supervisor's focus on Misinformation, Topic Modeling, Sentiment Analysis, and Opinion Mining, all of which are NLP subfields. However, the student's background in Plant Genetics and their stated motivation in that area suggest a potential misalignment in long-term research goals. The student's skills in Machine Learning and TensorFlow are relevant but not sufficient to fully bridge the gap between their prior expertise and the supervisor's research focus."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's expertise in parameter-efficient fine-tuning for multilingual NLP aligns partially with the student's background in machine learning and TensorFlow. However, the student's primary focus on plant genetics and public health analysis suggests a weaker direct alignment with the supervisor's NLP-specific research. The student's interdisciplinary skills and PhD-level research potential provide some overlap, but the technical alignment is not strong due to the divergent primary research areas."
+                }
+            }
+        },
+        {
+            "name": "Xingyi Song",
+            "institution": "University of Sheffield",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Misinformation and Its Impacts, Topic Modeling, Natural Language Processing Techniques",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: European Commission",
+                        "funder": "European Commission",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Horizon 2020 Framework Programme",
+                        "funder": "Horizon 2020 Framework Programme",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Engineering and Physical Sciences Research Council",
+                        "funder": "Engineering and Physical Sciences Research Council",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Innovate UK",
+                        "funder": "Innovate UK",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Innovation and Networks Executive Agency",
+                        "funder": "Innovation and Networks Executive Agency",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    }
+                ]
+            },
+            "final_score": 75.75,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow aligns strongly with the supervisor's expertise in parameter-efficient techniques for multilingual news classification, as demonstrated in their published research. The supervisor's work on advanced NLP models, supported by Horizon 2020 grants, directly complements Lin's interdisciplinary interests, bridging their plant genetics experience with computational linguistics. Lin's thesis on plant genetics and public health analysis showcases their ability to apply rigorous qualitative and quantitative methods, mirroring the supervisor's focus on precision in machine learning applications. This synergy positions Lin well for PhD research at the intersection of NLP and applied machine learning.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by European Commission (Topic: Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1371/journal.pone.0301738"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The student's research intent in Natural Language Processing (NLP) aligns well with the PhD position's focus on multilingual news article classification. The student's skills in Machine Learning and TensorFlow are directly relevant to the position's emphasis on parameter-efficient techniques and full fine-tuning. The slight deviation from the student's background in Plant Genetics is mitigated by their demonstrated interest and skills in NLP, making the alignment strong but not perfect."
+                },
+                "focus": {
+                    "score": 70.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP techniques and topic modeling. However, the student's background in Plant Genetics and their motivation in that field may introduce some misalignment, particularly with the supervisor's focus on misinformation and its impacts. The student's skills in Machine Learning and TensorFlow are relevant but not directly tied to the misinformation aspect of the supervisor's research."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's expertise in NLP and machine learning aligns partially with the student's background in plant genetics and machine learning. While the student has relevant ML skills (TensorFlow) and interdisciplinary experience, the supervisor's focus on multilingual news classification may not fully align with the student's plant genetics research. However, the student's ML projects and thesis demonstrate potential for bridging the gap, justifying a moderate alignment score."
+                }
+            }
+        },
+        {
+            "name": "Jinwei Hu",
+            "institution": "Imperial College London",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Adversarial Robustness in Machine Learning, Legal and Regulatory Analysis",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Building Guardrails for Large Language Models",
+                        "link": "https://doi.org/10.48550/arxiv.2402.01822"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: Alan Turing Institute",
+                        "funder": "Alan Turing Institute",
+                        "link": "https://doi.org/10.48550/arxiv.2402.01822"
+                    },
+                    {
+                        "title": "Project supported by: Engineering and Physical Sciences Research Council",
+                        "funder": "Engineering and Physical Sciences Research Council",
+                        "link": "https://doi.org/10.48550/arxiv.2402.01822"
+                    }
+                ]
+            },
+            "final_score": 75.75,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow, demonstrated through projects in plant genetics and public health analysis, aligns well with the supervisor's focus on building guardrails for large language models. Their thesis on advanced plant genetics reflects a strong foundation for interdisciplinary research, which complements the supervisor's work on AI safety and governance, as evidenced by their recent paper and grants from the Alan Turing Institute. The supervisor's technical expertise in AI safety directly supports Lin's PhD goals in NLP, particularly in addressing ethical and governance challenges in language models.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by Alan Turing Institute (Topic: Building Guardrails for Large Language Models)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.48550/arxiv.2402.01822"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the PhD position focused on Building Guardrails for Large Language Models. The student's skills in Machine Learning and TensorFlow are directly relevant to the position. However, the student's background in Plant Genetics, while not directly related, does not significantly detract from the alignment. The score reflects a strong match with minor considerations."
+                },
+                "focus": {
+                    "score": 70.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns moderately with the supervisor's research focus on Topic Modeling, which is a subfield of NLP. However, the supervisor's additional focus areas\u2014Adversarial Robustness in Machine Learning and Legal and Regulatory Analysis\u2014do not align as closely with the student's stated intent. The student's skills in Machine Learning and TensorFlow provide some relevance, but the supervisor's broader focus areas are not explicitly addressed in the student's intent. The score reflects partial alignment with one core area and limited relevance to the others."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's focus on AI safety and governance aligns moderately with the student's background in machine learning and TensorFlow. However, the student's primary expertise in plant genetics and public health analysis is less directly relevant to the supervisor's technical work on large language models. The student's interdisciplinary skills and PhD-level research potential suggest some alignment, but the gap in domain-specific expertise reduces the overall score."
+                }
+            }
+        },
+        {
+            "name": "Dana R\u0153mling",
+            "institution": "University of Birmingham",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Natural Language Processing Techniques, Authorship Attribution and Profiling, Topic Modeling",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "The sociolinguistic foundations of language modeling",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: UK Research and Innovation",
+                        "funder": "UK Research and Innovation",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    },
+                    {
+                        "title": "Project supported by: University of Birmingham",
+                        "funder": "University of Birmingham",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    },
+                    {
+                        "title": "Project supported by: Economic and Social Research Council",
+                        "funder": "Economic and Social Research Council",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    }
+                ]
+            },
+            "final_score": 74.75,
+            "tier": "Target",
+            "why_match": "Lin Chen's interdisciplinary background in Plant Genetics and Machine Learning, particularly their expertise in TensorFlow, aligns well with the supervisor's work in sociolinguistic foundations of language modeling. The supervisor's grants from UK Research and Innovation and the Economic and Social Research Council highlight their commitment to interdisciplinary research, mirroring Lin's transition from plant genetics to NLP. Lin's thesis on advanced plant genetics demonstrates their ability to conduct rigorous research, which would be valuable in the supervisor's projects on language technology and social sciences. This match offers Lin a unique opportunity to apply their ML skills to sociolinguistic challenges, while the supervisor benefits from their interdisciplinary perspective.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by UK Research and Innovation (Topic: The sociolinguistic foundations of language modeling)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.3389/frai.2024.1472411"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the PhD position's focus on language modeling, especially given their skills in Machine Learning and TensorFlow. However, the student's background in Plant Genetics, while not directly relevant, does not significantly detract from the alignment. The score reflects a strong but not perfect match due to the student's interdisciplinary background."
+                },
+                "focus": {
+                    "score": 80.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP techniques. However, the student's background in Plant Genetics and their motivation in that field may introduce some divergence. The student's skills in Machine Learning and TensorFlow support the alignment, but the supervisor's additional focus on Authorship Attribution and Profiling, and Topic Modeling is not explicitly mentioned in the student's intent, which slightly reduces the alignment score."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The student's background in machine learning and qualitative analysis aligns partially with the supervisor's focus on sociolinguistics and language modeling, but there is a gap in direct experience with sociolinguistic research. The student's interdisciplinary skills in plant genetics and public health analysis show potential for adaptation, but the supervisor's work requires deeper expertise in language technology and social sciences. The student's technical skills in TensorFlow and research experience are relevant but not fully aligned with the supervisor's specific research areas."
+                }
+            }
+        },
+        {
+            "name": "Carolina Scarton",
+            "institution": "University of Sheffield",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Natural Language Processing Techniques, Text Readability and Simplification",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: European Commission",
+                        "funder": "European Commission",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Horizon 2020 Framework Programme",
+                        "funder": "Horizon 2020 Framework Programme",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Engineering and Physical Sciences Research Council",
+                        "funder": "Engineering and Physical Sciences Research Council",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Innovate UK",
+                        "funder": "Innovate UK",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    },
+                    {
+                        "title": "Project supported by: Innovation and Networks Executive Agency",
+                        "funder": "Innovation and Networks Executive Agency",
+                        "link": "https://doi.org/10.1371/journal.pone.0301738"
+                    }
+                ]
+            },
+            "final_score": 74.5,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow aligns well with the supervisor's expertise in parameter-efficient fine-tuning for multilingual news classification, a key area in NLP. The supervisor's grants from the European Commission and Horizon 2020 further demonstrate a commitment to advanced computational research, which complements Lin's interdisciplinary interest in transitioning from plant genetics to NLP. Lin's thesis on advanced plant genetics research shows a strong foundation for PhD-level work, while the supervisor's published work in NLP provides a clear pathway for Lin to develop their machine learning skills in a cutting-edge research environment.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by European Commission (Topic: Comparison between parameter-efficient techniques and full fine-tuning: A case study on multilingual news article classification)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1371/journal.pone.0301738"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on multilingual news article classification. However, the student's background in Plant Genetics is unrelated to the position's topic, and while their skills in Machine Learning and TensorFlow are relevant, the position specifically emphasizes parameter-efficient techniques and full fine-tuning, which may not be the student's primary expertise. The alignment is strong but not perfect, hence the score."
+                },
+                "focus": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP techniques, topic modeling, and text simplification. The student's background in Plant Genetics is not directly relevant, but their skills in Machine Learning and TensorFlow are highly applicable to the supervisor's research areas. The slight deviation from the supervisor's exact topics (e.g., text readability) is offset by the strong overlap in NLP and ML expertise."
+                },
+                "evidence": {
+                    "score": 55.0,
+                    "reasoning": "The supervisor's expertise in NLP and machine learning, particularly in parameter-efficient fine-tuning, aligns moderately with the student's background in machine learning and TensorFlow. However, the student's primary academic focus on plant genetics and public health analysis suggests a weaker alignment with the supervisor's core research areas. The student's interdisciplinary skills and PhD-level research potential provide some overlap, but the technical alignment is not strong due to the divergence in primary research domains."
+                }
+            }
+        },
+        {
+            "name": "Serge Sharoff",
+            "institution": "University of Leeds",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Natural Language Processing Techniques, Topic Modeling, Text Readability and Simplification",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Beyond images: an integrative multi-modal approach to chest x-ray report generation",
+                        "link": "https://doi.org/10.3389/fradi.2024.1339612"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: University of Leeds",
+                        "funder": "University of Leeds",
+                        "link": "https://doi.org/10.3389/fradi.2024.1339612"
+                    },
+                    {
+                        "title": "Project supported by: Milli E\u011fitim Bakanli\u011fi",
+                        "funder": "Milli E\u011fitim Bakanli\u011fi",
+                        "link": "https://doi.org/10.3389/fradi.2024.1339612"
+                    }
+                ]
+            },
+            "final_score": 74.25,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in Machine Learning and TensorFlow aligns well with the supervisor's work on multi-modal chest x-ray report generation, as demonstrated in their recent paper. The supervisor's expertise in medical imaging and AI, supported by grants from the University of Leeds and Milli E\u011fitim Bakanl\u0131\u011f\u0131, provides a strong technical foundation for Lin's PhD goals in NLP, particularly in interdisciplinary applications. Lin's experience in qualitative analysis and advanced plant genetics research further complements the supervisor's focus on integrating AI with complex datasets, making this a promising match for a PhD in NLP.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by University of Leeds (Topic: Beyond images: an integrative multi-modal approach to chest x-ray report generation)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.3389/fradi.2024.1339612"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 70.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns moderately with the PhD position's focus on chest x-ray report generation, which involves NLP for medical imaging. The student's skills in Machine Learning and TensorFlow are relevant, but their background in Plant Genetics may require additional domain adaptation. The alignment is not perfect but is strong enough to warrant consideration."
+                },
+                "focus": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP, Topic Modeling, and Text Readability. However, the student's background in Plant Genetics may introduce some divergence, though their skills in Machine Learning and TensorFlow support the alignment. The score reflects strong alignment with minor concerns about background relevance."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's focus on multi-modal chest x-ray report generation and AI in medical imaging aligns moderately with the student's background in machine learning and TensorFlow. However, the student's expertise in plant genetics and public health analysis, while demonstrating strong interdisciplinary skills, does not directly overlap with the supervisor's medical imaging focus. The student's technical skills in AI and machine learning are transferable, but the domain shift from plant genetics to medical imaging presents a moderate alignment challenge."
+                }
+            }
+        },
+        {
+            "name": "Hannah Rose Kirk",
+            "institution": "University of Oxford",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Natural Language Processing Techniques, Hate Speech and Cyberbullying Detection",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models",
+                        "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: Allen Institute for Artificial Intelligence",
+                        "funder": "Allen Institute for Artificial Intelligence",
+                        "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                    },
+                    {
+                        "title": "Project supported by: European Commission",
+                        "funder": "European Commission",
+                        "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                    },
+                    {
+                        "title": "Project supported by: Deutsche Forschungsgemeinschaft",
+                        "funder": "Deutsche Forschungsgemeinschaft",
+                        "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                    },
+                    {
+                        "title": "Project supported by: Economic and Social Research Council",
+                        "funder": "Economic and Social Research Council",
+                        "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                    }
+                ]
+            },
+            "final_score": 73.25,
+            "tier": "Target",
+            "why_match": "Lin Chen's interdisciplinary background in Plant Genetics and Machine Learning, particularly their expertise in TensorFlow and qualitative analysis, aligns well with the supervisor's research on evaluating values and opinions in large language models. Their recent ACL paper on this topic directly complements Lin's interest in NLP, while the supervisor's grants from the Allen Institute for AI and ESRC indicate a strong technical foundation in AI ethics\u2014a field where Lin's machine learning skills could contribute meaningfully. The supervisor's focus on bridging AI and societal impact also resonates with Lin's prior work in public health analysis, suggesting a productive synergy for a PhD in NLP.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by Allen Institute for Artificial Intelligence (Topic: Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.18653/v1/2024.acl-long.816"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on evaluating values and opinions in Large Language Models. The student's skills in Machine Learning and TensorFlow are directly relevant to the position's requirements. However, the student's background in Plant Genetics is not directly related to the topic, which may slightly reduce the alignment score."
+                },
+                "focus": {
+                    "score": 70.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP techniques and related areas like Topic Modeling and Hate Speech Detection. However, the student's background in Plant Genetics and the mention of a shift in focus slightly reduces the alignment, as the supervisor's research is more specialized in NLP applications related to social and linguistic analysis."
+                },
+                "evidence": {
+                    "score": 75.0,
+                    "reasoning": "The supervisor's focus on evaluating values and opinions in large language models aligns moderately with the student's background in machine learning and TensorFlow. However, the student's expertise in plant genetics and public health analysis, while interdisciplinary, does not directly overlap with the supervisor's NLP and AI ethics research. The student's technical skills in machine learning and qualitative analysis provide a foundation, but the alignment is not perfect due to the differing research domains. The score reflects a solid but not perfect alignment."
+                }
+            }
+        },
+        {
+            "name": "Olivia Macmillan-Scott",
+            "institution": "University College London",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Natural Language Processing Techniques, Decision-Making and Behavioral Economics",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "(Ir)rationality and cognitive biases in large language models",
+                        "link": "https://doi.org/10.1098/rsos.240255"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: Leverhulme Trust",
+                        "funder": "Leverhulme Trust",
+                        "link": "https://doi.org/10.1098/rsos.240255"
+                    }
+                ]
+            },
+            "final_score": 73.0,
+            "tier": "Target",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow aligns well with the supervisor's research on cognitive biases in large language models, as demonstrated in their paper on (Ir)rationality and cognitive biases in LLMs. Chen's interdisciplinary experience in plant genetics and public health analysis, combined with their technical skills, positions them to contribute meaningfully to the supervisor's Leverhulme Trust-supported work on AI and cognitive modeling. The supervisor's focus on bridging AI and cognitive science complements Chen's goal of transitioning into NLP research, offering a strong foundation for PhD-level exploration of bias in language models.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by Leverhulme Trust (Topic: (Ir)rationality and cognitive biases in large language models)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1098/rsos.240255"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the PhD position's focus on (Ir)rationality and cognitive biases in large language models, as both fall under the broader NLP field. The student's skills in Machine Learning and TensorFlow are directly relevant to the position. However, the student's background in Plant Genetics, while not directly related, does not significantly detract from the alignment. The score reflects a strong but not perfect match due to the student's lack of explicit mention of cognitive biases or irrationality in their intent."
+                },
+                "focus": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP techniques. However, the student's background in Plant Genetics and their motivation in that field may introduce some divergence. The student's skills in Machine Learning and TensorFlow are relevant but not directly tied to the supervisor's additional focus areas like Decision-Making and Behavioral Economics. The alignment is strong but not perfect."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's expertise in cognitive biases in LLMs and AI aligns partially with the student's background in machine learning and TensorFlow. However, the student's focus on plant genetics and public health analysis, while interdisciplinary, does not directly align with the supervisor's core research area. The student's skills in qualitative analysis and ML are transferable, but the gap in domain-specific knowledge (AI/cognitive modeling vs. plant genetics) reduces the alignment score."
+                }
+            }
+        },
+        {
+            "name": "Alexandra Birch",
+            "institution": "University of Edinburgh",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Natural Language Processing Techniques, Topic Modeling, Text Readability and Simplification",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Assessing Factual Reliability of Large Language Model Knowledge",
+                        "link": "https://doi.org/10.18653/v1/2024.naacl-long.46"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: Government of the United Kingdom",
+                        "funder": "Government of the United Kingdom",
+                        "link": "https://doi.org/10.18653/v1/2024.naacl-long.46"
+                    },
+                    {
+                        "title": "Project supported by: UK Research and Innovation",
+                        "funder": "UK Research and Innovation",
+                        "link": "https://doi.org/10.18653/v1/2024.naacl-long.46"
+                    },
+                    {
+                        "title": "Project supported by: HORIZON EUROPE Framework Programme",
+                        "funder": "HORIZON EUROPE Framework Programme",
+                        "link": "https://doi.org/10.18653/v1/2024.naacl-long.46"
+                    }
+                ]
+            },
+            "final_score": 73.0,
+            "tier": "Target",
+            "why_match": "Lin Chen's interdisciplinary background in Plant Genetics and Machine Learning aligns well with the supervisor's expertise in NLP and AI evaluation, particularly their work on assessing the factual reliability of large language models. Chen's skills in TensorFlow and qualitative analysis, honed through projects in plant genetics and public health, provide a strong foundation for contributing to the supervisor's research on AI evaluation. The supervisor's grants from the UK Government and HORIZON EUROPE Framework Programme further indicate a well-supported research environment where Chen's transition to NLP can thrive, leveraging their technical skills and interdisciplinary mindset.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by Government of the United Kingdom (Topic: Assessing Factual Reliability of Large Language Model Knowledge)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.18653/v1/2024.naacl-long.46"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on assessing the factual reliability of Large Language Models (LLMs), as both involve NLP techniques. The student's skills in Machine Learning and TensorFlow are directly relevant to the position. However, the student's background in Plant Genetics, while not directly related, does not detract significantly from their alignment with the position. The score reflects a strong but not perfect alignment due to the student's non-traditional background."
+                },
+                "focus": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP, Topic Modeling, and Text Readability. However, the student's background in Plant Genetics and lack of explicit mention of topic modeling or text simplification slightly reduces the alignment."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's expertise in NLP and AI evaluation aligns partially with the student's background in machine learning and TensorFlow. However, the student's focus on plant genetics and public health may not fully align with the supervisor's research on AI evaluation. The student's interdisciplinary skills suggest potential for adaptation, but the alignment is not perfect."
+                }
+            }
+        },
+        {
+            "name": "Nurbanu Aksoy",
+            "institution": "University of Leeds",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Multimodal Machine Learning Applications, Natural Language Processing Techniques",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Beyond images: an integrative multi-modal approach to chest x-ray report generation",
+                        "link": "https://doi.org/10.3389/fradi.2024.1339612"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: University of Leeds",
+                        "funder": "University of Leeds",
+                        "link": "https://doi.org/10.3389/fradi.2024.1339612"
+                    },
+                    {
+                        "title": "Project supported by: Milli E\u011fitim Bakanli\u011fi",
+                        "funder": "Milli E\u011fitim Bakanli\u011fi",
+                        "link": "https://doi.org/10.3389/fradi.2024.1339612"
+                    }
+                ]
+            },
+            "final_score": 73.0,
+            "tier": "Target",
+            "why_match": "Lin Chen's transition from Plant Genetics to Natural Language Processing is well-supported by their machine learning expertise, particularly in TensorFlow, which aligns with the supervisor's work on AI-driven medical imaging. The supervisor's recent paper on multi-modal chest x-ray report generation leverages similar NLP and ML techniques, making this a strong technical fit. Additionally, the supervisor's grants in medical AI diagnostics suggest a collaborative environment where Lin's interdisciplinary background\u2014combining lab techniques and ML\u2014could thrive. This match offers Lin the opportunity to apply their skills in a cutting-edge, high-impact research area.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by University of Leeds (Topic: Beyond images: an integrative multi-modal approach to chest x-ray report generation)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.3389/fradi.2024.1339612"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on multi-modal approaches to chest x-ray report generation, which likely involves NLP for generating textual reports from medical images. The student's skills in Machine Learning and TensorFlow are also relevant. However, the student's background in Plant Genetics is not directly related to the medical imaging focus of the position, which may slightly reduce the alignment."
+                },
+                "focus": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP Techniques. However, the student's background in Plant Genetics and their motivation in that field may introduce some divergence. The student's skills in Machine Learning and TensorFlow are relevant but not directly tied to the supervisor's additional focus areas like Topic Modeling and Multimodal Machine Learning Applications."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's focus on medical imaging and AI-driven diagnostics aligns partially with the student's background in machine learning and TensorFlow. However, the student's expertise in plant genetics and public health analysis, while interdisciplinary, does not directly align with the supervisor's medical imaging research. The student's machine learning skills are relevant, but the lack of direct experience in medical imaging or healthcare AI reduces the alignment."
+                }
+            }
+        },
+        {
+            "name": "Jason Grafmiller",
+            "institution": "University of Birmingham",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Linguistic Variation and Morphology, Syntax, Semantics, Linguistic Variation, Natural Language Processing Techniques",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "The sociolinguistic foundations of language modeling",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: UK Research and Innovation",
+                        "funder": "UK Research and Innovation",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    },
+                    {
+                        "title": "Project supported by: University of Birmingham",
+                        "funder": "University of Birmingham",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    },
+                    {
+                        "title": "Project supported by: Economic and Social Research Council",
+                        "funder": "Economic and Social Research Council",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    }
+                ]
+            },
+            "final_score": 71.25,
+            "tier": "Target",
+            "why_match": "Lin Chen's interdisciplinary background in Plant Genetics and Machine Learning aligns well with the supervisor's research on sociolinguistic foundations of language modeling, particularly their grants from UK Research and Innovation and the Economic and Social Research Council. Chen's experience with TensorFlow and qualitative analysis from their plant genetics thesis demonstrates a strong foundation for interdisciplinary research, which maps onto the supervisor's work at the intersection of language technology and social sciences. Additionally, Chen's transition from plant genetics to NLP reflects a curiosity for interdisciplinary challenges, mirroring the supervisor's approach to integrating social sciences with computational linguistics.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by UK Research and Innovation (Topic: The sociolinguistic foundations of language modeling)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.3389/frai.2024.1472411"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the PhD position's focus on the sociolinguistic foundations of language modeling. However, the student's background in Plant Genetics is unrelated, which may require additional effort to bridge the gap. The student's skills in Machine Learning and TensorFlow are highly relevant and supportive of the position's requirements."
+                },
+                "focus": {
+                    "score": 70.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP techniques. However, the student's background in Plant Genetics and lack of explicit mention of linguistic variation, morphology, syntax, or semantics slightly reduces the alignment score."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's research aligns with interdisciplinary approaches, which partially matches the student's background in machine learning and qualitative analysis. However, the student's focus on plant genetics and public health analysis may not fully align with the supervisor's sociolinguistic and language modeling expertise. The student's skills in TensorFlow and interdisciplinary research provide a moderate foundation for collaboration, but the specific research areas show only partial overlap."
+                }
+            }
+        },
+        {
+            "name": "Alejandro Jawerbaum",
+            "institution": "University of Birmingham",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Natural Language Processing Techniques, Topic Modeling, Language and cultural evolution",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "The sociolinguistic foundations of language modeling",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: UK Research and Innovation",
+                        "funder": "UK Research and Innovation",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    },
+                    {
+                        "title": "Project supported by: University of Birmingham",
+                        "funder": "University of Birmingham",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    },
+                    {
+                        "title": "Project supported by: Economic and Social Research Council",
+                        "funder": "Economic and Social Research Council",
+                        "link": "https://doi.org/10.3389/frai.2024.1472411"
+                    }
+                ]
+            },
+            "final_score": 71.25,
+            "tier": "Target",
+            "why_match": "Lin Chen's interdisciplinary background in plant genetics and machine learning, particularly their expertise in TensorFlow and qualitative analysis, aligns well with the supervisor's research on sociolinguistic foundations of language modeling. The supervisor's work, supported by grants from UK Research and Innovation and the Economic and Social Research Council, emphasizes interdisciplinary approaches to language technology\u2014a natural extension of Lin's transition from biological to computational research. Their recent publications further demonstrate a commitment to bridging social sciences and AI, which resonates with Lin's goal of applying machine learning to complex systems, as evidenced by their thesis on advanced plant genetics.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by UK Research and Innovation (Topic: The sociolinguistic foundations of language modeling)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.3389/frai.2024.1472411"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position's focus on the sociolinguistic foundations of language modeling. The student's skills in Machine Learning and TensorFlow are directly relevant to the technical aspects of language modeling. However, the student's background in Plant Genetics, while not directly related, does not significantly detract from the alignment. The score reflects a strong but not perfect match due to the student's interdisciplinary background."
+                },
+                "focus": {
+                    "score": 70.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing aligns well with the supervisor's focus on NLP Techniques and Topic Modeling. However, the student's background in Plant Genetics and the mention of their motivation in that field slightly reduce the alignment score, as it may indicate a potential divergence in long-term research interests. The skills in Machine Learning and TensorFlow are relevant but do not fully compensate for the background mismatch."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The student's background in machine learning and qualitative analysis aligns partially with the supervisor's focus on sociolinguistics and language modeling. However, the student's expertise in plant genetics and public health analysis, while interdisciplinary, does not directly overlap with the supervisor's core research areas. The student's skills in TensorFlow and interdisciplinary research are relevant but not a perfect match. The score reflects moderate alignment with some potential for collaboration."
+                }
+            }
+        },
+        {
+            "name": "Emine Yilmaz",
+            "institution": "University College London",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Topic Modeling, Natural Language Processing Techniques, Multimodal Machine Learning Applications",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "Synthetic Test Collections for Retrieval Evaluation",
+                        "link": "https://doi.org/10.1145/3626772.3657942"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: Universitas Brawijaya",
+                        "funder": "Universitas Brawijaya",
+                        "link": "https://doi.org/10.1145/3626772.3657942"
+                    },
+                    {
+                        "title": "Project supported by: Engineering and Physical Sciences Research Council",
+                        "funder": "Engineering and Physical Sciences Research Council",
+                        "link": "https://doi.org/10.1145/3626772.3657942"
+                    }
+                ]
+            },
+            "final_score": 66.75,
+            "tier": "Safety",
+            "why_match": "Lin Chen's interdisciplinary background in Plant Genetics and Machine Learning aligns well with the supervisor's expertise in retrieval evaluation, particularly their work on synthetic test collections. Chen's experience with TensorFlow and qualitative analysis is directly applicable to the supervisor's research on retrieval systems, which relies on robust evaluation methodologies. Additionally, the supervisor's grants from Universitas Brawijaya and the EPSRC suggest a strong institutional and funding environment for advancing Chen's PhD goals in NLP, bridging their genetic research background with cutting-edge retrieval techniques.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by Universitas Brawijaya (Topic: Synthetic Test Collections for Retrieval Evaluation)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1145/3626772.3657942"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 60.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns partially with the PhD position's focus on Synthetic Test Collections for Retrieval Evaluation, as both involve machine learning and retrieval tasks. However, the student's background in Plant Genetics and their transition to NLP may indicate a lack of direct experience in information retrieval or evaluation metrics, which are likely critical for this position. The student's skills in Machine Learning and TensorFlow are relevant but not sufficient to fully align with the specific requirements of the open position."
+                },
+                "focus": {
+                    "score": 85.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the supervisor's research focus on NLP techniques and Topic Modeling. The student's background in Plant Genetics is less relevant, but their skills in Machine Learning and TensorFlow are directly applicable. The supervisor's additional focus on Multimodal Machine Learning Applications could offer a valuable extension to the student's research, though it is not their primary intent. The alignment is strong but not perfect due to the supervisor's broader focus."
+                },
+                "evidence": {
+                    "score": 50.0,
+                    "reasoning": "The supervisor's expertise in retrieval evaluation and grants in retrieval systems aligns partially with the student's background in machine learning and TensorFlow. However, the student's focus on plant genetics and public health analysis is less directly relevant to the supervisor's research area, suggesting only moderate alignment."
+                }
+            }
+        },
+        {
+            "name": "Simon See",
+            "institution": "Nvidia (United Kingdom)",
+            "country": "GB",
+            "contact_email": "N/A",
+            "research_focus": "Distributed and Parallel Computing Systems, Topic Modeling, Advanced Neural Network Applications",
+            "evidence": {
+                "papers": [
+                    {
+                        "title": "CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation",
+                        "link": "https://doi.org/10.1109/jbhi.2024.3354712"
+                    }
+                ],
+                "grants": [
+                    {
+                        "title": "Project supported by: University of Warwick",
+                        "funder": "University of Warwick",
+                        "link": "https://doi.org/10.1109/jbhi.2024.3354712"
+                    },
+                    {
+                        "title": "Project supported by: China Scholarship Council",
+                        "funder": "China Scholarship Council",
+                        "link": "https://doi.org/10.1109/jbhi.2024.3354712"
+                    }
+                ]
+            },
+            "final_score": 64.25,
+            "tier": "Safety",
+            "why_match": "Lin Chen's background in machine learning and TensorFlow, coupled with their interdisciplinary thesis in plant genetics, aligns well with the supervisor's expertise in AI-driven radiology report generation, particularly their work on CAMANet. The supervisor's focus on medical imaging and NLP bridges Lin's technical skills with their PhD goals, while the grants from the University of Warwick and China Scholarship Council reflect a strong research environment for Lin's transition into NLP. This match leverages Lin's quantitative analysis strengths while providing exposure to cutting-edge NLP applications in healthcare.",
+            "linked_programs": [
+                {
+                    "program_name": "Funded PhD Research",
+                    "open_positions": [
+                        {
+                            "position_title": "PhD Position - Funded by University of Warwick (Topic: CAMANet: Class Activation Map Guided Attention Network for Radiology Report Generation)",
+                            "application_deadline": "Contact PI regarding funding",
+                            "link": "https://doi.org/10.1109/jbhi.2024.3354712"
+                        }
+                    ]
+                }
+            ],
+            "details": {
+                "position": {
+                    "score": 75.0,
+                    "reasoning": "The student's primary research interest in Natural Language Processing (NLP) aligns well with the PhD position focused on radiology report generation using Class Activation Map Guided Attention Network (CAMANet), which involves NLP and machine learning techniques. However, the student's background in Plant Genetics is not directly relevant to the position, and while their skills in Machine Learning and TensorFlow are applicable, the alignment is not perfect due to the lack of domain-specific experience in radiology or medical imaging. The score reflects a strong but not perfect alignment."
+                },
+                "focus": {
+                    "score": 50.0,
+                    "reasoning": "The supervisor's research focus includes Natural Language Processing (NLP) through Topic Modeling and Advanced Neural Network Applications, which aligns partially with the student's intent in NLP. However, the student's background in Plant Genetics and primary motivation in NLP, despite their skills in Machine Learning and TensorFlow, suggests a moderate alignment rather than a strong one. The score reflects this partial overlap."
+                },
+                "evidence": {
+                    "score": 65.0,
+                    "reasoning": "The supervisor's expertise in AI-driven radiology report generation and medical imaging aligns partially with the student's background in machine learning and TensorFlow. However, the student's focus on plant genetics and public health analysis shows limited direct relevance to the supervisor's research area. The student's interdisciplinary skills and PhD-level research potential suggest some adaptability, but the alignment is not strong due to the differing core research domains."
+                }
+            }
+        }
+    ]
+}

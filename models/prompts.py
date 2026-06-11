@@ -104,13 +104,17 @@ EVALUATE_EVIDENCE_PROMPT = PromptTemplate(
 
 GENERATE_WHY_MATCH_PROMPT = PromptTemplate(
     template=SYSTEM_INSTRUCTIONS + """
-    Generate a highly personalized 'why_match' statement for the student's PhD shortlist. 
-    Use the provided evaluative reasonings and final score to explain exactly why this PI is a top target. 
-    Final Score: {final_score}.
+    Generate a highly personalized 'why_match' statement (3-4 sentences) for the student's PhD shortlist. 
     
-    Position Eval: {position_reasoning}\nFocus Eval: {focus_reasoning}\nEvidence Eval: {evidence_reasoning}
+    CRITICAL: You MUST reference specific work from the 'Supervisor Evidence' (e.g., a specific paper topic, title, or grant) and explain exactly how it maps onto the student's background or PhD goals.
+    Avoid generic praise like "This PI is a top target" or "Great alignment" without specific technical justification.
+    
+    Student Intent: {student_intent}
+    Student Background: {student_background}
+    Supervisor Evidence: {supervisor_evidence}
+    Final Score: {final_score}
     
     {format_instructions}
     """,
-    input_variables=["final_score", "position_reasoning", "focus_reasoning", "evidence_reasoning"],
+    input_variables=["student_intent", "student_background", "supervisor_evidence", "final_score"],
 )

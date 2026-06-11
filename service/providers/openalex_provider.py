@@ -51,7 +51,7 @@ class OpenAlexProvider(BaseSupervisorProvider):
             f"funders.id:{funder_str},"
             f"publication_year:>2023"
         )
-        url = f"{self.BASE_URL}/works?filter={filter_str}&per_page=150&sort=cited_by_count:desc&mailto={self.email}"
+        url = f"{self.BASE_URL}/works?filter={filter_str}&per_page=200&sort=cited_by_count:desc&mailto={self.email}"
         
         try:
             response = requests.get(url).json()
@@ -74,8 +74,8 @@ class OpenAlexProvider(BaseSupervisorProvider):
                     enriched = self._enrich_author(author_details, work)
                     if enriched:
                         supervisors_map[author_id] = enriched
-                        if len(supervisors_map) >= 150: break
-                if len(supervisors_map) >= 150: break
+                        if len(supervisors_map) >= 300: break
+                if len(supervisors_map) >= 300: break
             
             return list(supervisors_map.values())
         except Exception as e:

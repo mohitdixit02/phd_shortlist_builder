@@ -104,7 +104,7 @@ class EuraxessProvider(BaseSupervisorProvider):
                     programs=programs
                 ))
                 
-                if len(supervisors) >= 150: break
+                if len(supervisors) >= 300: break
                 
             return supervisors
             

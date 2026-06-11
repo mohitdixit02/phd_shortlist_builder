@@ -42,7 +42,7 @@ def filter_by_country(supervisors: list[dict], target_countries: list[str]) -> l
 
 def filter_by_evidence(supervisors: list[dict]) -> list[dict]:
     """
-    Filter supervisors who do not have at least one paper or grant.
+    Filter supervisors who do not have at least one paper or grant WITH a valid link.
     """
     filtered_list = []
     for s in supervisors:
@@ -50,7 +50,10 @@ def filter_by_evidence(supervisors: list[dict]) -> list[dict]:
         papers = evidence.get('papers', [])
         grants = evidence.get('grants', [])
         
-        if len(papers) > 0 or len(grants) > 0:
+        valid_papers = [p for p in papers if p.get('link') and str(p.get('link')).strip().lower() != 'n/a']
+        valid_grants = [g for g in grants if g.get('link') and str(g.get('link')).strip().lower() != 'n/a']
+        
+        if len(valid_papers) > 0 or len(valid_grants) > 0:
             filtered_list.append(s)
             
     return filtered_list

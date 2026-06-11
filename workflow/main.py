@@ -68,9 +68,9 @@ def run_shortlist_pipeline(student_profile, supervisors):
         # Final Reasoning (why_match)
         final_personalization = evaluator.generate_personalization(
             final_score,
-            alignment_results["position"].reasoning,
-            alignment_results["focus"].reasoning,
-            evid_results.reasoning
+            student_intent,
+            student_bg,
+            sup_evidence
         )
 
         # Calculate Tier

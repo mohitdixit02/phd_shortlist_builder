@@ -29,7 +29,7 @@ class NIHProvider(BaseSupervisorProvider):
                 "project_nums": ["R01", "R21", "T32", "P01"], # Focus on active research grants
                 "fiscal_years": years # Look at recent years
             },
-            "limit": 150,
+            "limit": 300,
             "sort_field": "fiscal_year",
             "sort_order": "desc"
         }

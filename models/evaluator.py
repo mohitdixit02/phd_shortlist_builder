@@ -8,7 +8,6 @@ from models.prompts import (
 )
 from service.model_provider import get_llm
 from langchain_core.runnables import RunnableParallel
-import os
 
 class Evaluator:
     """
@@ -55,13 +54,13 @@ class Evaluator:
         """
         return self.evidence_chain.invoke(inputs)
 
-    def generate_personalization(self, final_score: float, pos_reasoning: str, focus_reasoning: str, evid_reasoning: str) -> dict:
+    def generate_personalization(self, final_score: float, student_intent: str, student_bg: str, sup_evidence: str) -> dict:
         """
         Generates the final why_match statement.
         """
         return self.why_match_chain.invoke({
             "final_score": final_score,
-            "position_reasoning": pos_reasoning,
-            "focus_reasoning": focus_reasoning,
-            "evidence_reasoning": evid_reasoning
+            "student_intent": student_intent,
+            "student_background": student_bg,
+            "supervisor_evidence": sup_evidence
         })
