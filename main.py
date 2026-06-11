@@ -16,7 +16,10 @@ def main():
         print("No students found in mock_students.json.")
         return
 
-    sample_student = random.choice(students)
+    # sample_student = random.choice(students)
+    sample_student = next(s for s in students if s['name'] == "Lin Chen")
+    sample_student['target_countries'] = ["UK"] 
+    sample_student['research_interests'] = ["Natural Language Processing"]
     print(f"--- Processing Shortlist for: {sample_student['name']} ---")
     print(f"Target Countries: {sample_student['target_countries']}")
     

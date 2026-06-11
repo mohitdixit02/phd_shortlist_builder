@@ -17,12 +17,16 @@ Do NOT include any Python code, preamble, or conversational text.
 # Builder Prompts
 BUILD_STUDENT_INTENT_PROMPT = PromptTemplate(
     template=SYSTEM_INSTRUCTIONS + """
-    Summarize the student's research intent in 2-3 lines based on the following details. 
-    Ensure it captures the core 'what' and 'why' of their goal. 
-    This intent will later be compared with the supervisor's research focus and open position to evaluate fit.
-    Make sure the correct intent is captured.
+    Summarize the student's research intent in 2-3 lines.
     
-    Intro Text: {intro_text}\nRaw Summary: {raw_summary}\nResearch Interest: {research_interest}
+    CRITICAL: The 'Research Interest' field represents the student's PRIMARY CURRENT GOAL for their PhD. 
+    You MUST prioritize the 'Research Interest' when defining the intent. 
+    Use the 'Intro Text' and 'Raw Summary' ONLY to provide context on their motivation or how their background supports this interest, 
+    but do NOT let them override the specific 'Research Interest' provided.
+    
+    Research Interest: {research_interest}
+    Intro Text: {intro_text}
+    Raw Summary: {raw_summary}
     
     {format_instructions}
     """,
@@ -59,7 +63,9 @@ BUILD_SUPERVISOR_EVIDENCE_PROMPT = PromptTemplate(
 EVALUATE_POSITION_PROMPT = PromptTemplate(
     template=SYSTEM_INSTRUCTIONS + """
     Evaluate the alignment between a specific supervisor's open PhD position and a student's research intent.
-    Provide a score from 0.0 to 100.0 and your reasoning.
+    
+    CRITICAL: You must provide a numeric 'score' (0.0-100.0) and a separate 'reasoning' string.
+    Do NOT put the score inside the reasoning text.
     
     Open Position: {open_position}\nStudent Intent: {student_intent}
     
@@ -71,7 +77,9 @@ EVALUATE_POSITION_PROMPT = PromptTemplate(
 EVALUATE_FOCUS_PROMPT = PromptTemplate(
     template=SYSTEM_INSTRUCTIONS + """
     Evaluate the alignment between the supervisor's overall research focus and the student's research intent.
-    Provide a score from 0.0 to 100.0 and your reasoning.
+    
+    CRITICAL: You must provide a numeric 'score' (0.0-100.0) and a separate 'reasoning' string.
+    Do NOT put the score inside the reasoning text.
     
     Research Focus: {research_focus}\nStudent Intent: {student_intent}
     
@@ -83,7 +91,9 @@ EVALUATE_FOCUS_PROMPT = PromptTemplate(
 EVALUATE_EVIDENCE_PROMPT = PromptTemplate(
     template=SYSTEM_INSTRUCTIONS + """
     Evaluate the technical alignment between the supervisor's publication/grant evidence and the student's skills/background.
-    Provide a score from 0.0 to 100.0 and your reasoning.
+    
+    CRITICAL: You must provide a numeric 'score' (0.0-100.0) and a separate 'reasoning' string.
+    Do NOT put the score inside the reasoning text.
     
     Supervisor Evidence: {supervisor_evidence}\nStudent Background: {student_background}
     

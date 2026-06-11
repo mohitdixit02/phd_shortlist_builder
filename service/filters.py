@@ -74,18 +74,18 @@ def apply_all_filters(supervisors: list[dict], student_profile: dict) -> list[di
     """
     target_countries = student_profile.get('target_countries', [])
     
-    print(f"DEBUG: Initial supervisors count: {len(supervisors)}")
+    print(f"LOG: Initial supervisors count: {len(supervisors)}")
     
     # Filter - Country
     filtered = filter_by_country(supervisors, target_countries)
-    print(f"DEBUG: After COUNTRY filter: {len(filtered)} supervisors remain.")
+    print(f"LOG: After COUNTRY filter: {len(filtered)} supervisors remain.")
     
     # Filter - Evidence
     filtered = filter_by_evidence(filtered)
-    print(f"DEBUG: After EVIDENCE filter: {len(filtered)} supervisors remain.")
+    print(f"LOG: After EVIDENCE filter: {len(filtered)} supervisors remain.")
     
     # Filter - Open Positions
     filtered = filter_by_openings(filtered)
-    print(f"DEBUG: After OPENINGS filter: {len(filtered)} supervisors remain.")
+    print(f"LOG: After OPENINGS filter: {len(filtered)} supervisors remain.")
     
     return filtered
